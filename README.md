@@ -4,9 +4,10 @@ A hacking solution that help Night-owl and hard working Chinese students gain co
 College Students are one of the most oppressed groups in Chinese universities. They have to study and play in a scheduled Time. For example, dorms in my university would enforce an electicity off at 23:00, making it troublesome for students to stay up late for studying and researching, and entertainment.(i.e. training time consuming RNN/DNN models at night or download huge files overnight).
 
 ## Why you make this project?
+TBD.
 
 ## How does this work?
-By digging through the protocals of widly used "Smart Electricity Meters" in China. I found that 
+By digging through the protocals of widly used "Smart Electricity Meters" in China. I found that MITM attack can be performed to bypass the control of Dorm Electricity C&C systems.
 
 ## Can I use this in my dorm?
 It depends. If your dorm have its own electricity meter inside and you can easily access it without any problem. Your dorm should be manufactured in China and support DL/T645-2007 protocol.
