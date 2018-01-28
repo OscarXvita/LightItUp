@@ -1,4 +1,4 @@
-# ightItUp
+# LightItUp
 A hacking solution that helps Night-owl and hard working Chinese students gain control at their dorm electricity and bypass enforcement of dorm electricity-off after 23:00.
 A hacking solution that helps Night-owl and hard working Chinese students gain control at their dorm electricity and bypass enforcement of dorm electricity-off after 23:00.
 
