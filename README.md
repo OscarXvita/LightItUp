@@ -1,7 +1,7 @@
 # LightItUp
 A hacking solution that help Night-owl and hard working Chinese students gain control at their dorm electricity and bypass enforcement of dorm electricity-off after 23:00.
 
-College Students are one of the most oppressed groups in Chinese universities. They have to study and play in a scheduled Time. For example, dorms in my university would enforce an electicity off at 23:00, making it troublesome for students to stay up late for studying and researching, and entertainment.(i.e. training time consuming RNN/DNN models at night or download huge files overnight).
+College Students are one of the most oppressed groups in Chinese universities. They have to study and play in a scheduled Time. For example, dorms in my university would enforce an electicity off at 23:00, making it troublesome for students to stay up late for studying and researching, and of course, entertainment.(i.e. Coin Mining, Train time consuming RNN/DNN models or download huge files overnight).
 
 ## Why you make this project?
 TBD.
