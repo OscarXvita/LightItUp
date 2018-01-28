@@ -10,7 +10,7 @@ TBD.
 By digging through the protocals of widly used "Smart Electricity Meters" in China. I found that MITM attack can be performed to bypass the control of Dorm Electricity C&C systems.
 
 ## Can I use this in my dorm?
-It depends. If your dorm have its own electricity meter inside and you can easily access it without any problem. Your dorm should be manufactured in China and support DL/T645-2007 protocol.
+It depends. If your dorm have its own electricity meter inside and you can easily access it without any problem, you may be eiligible to use this solution. Your dorm's electricity meter should be manufactured in China and support DL/T645-2007 protocol.
 
 # Disclaimer
 Any actions and or activities related to the material contained within this project is solely your responsibility.The misuse of the information in this website can result in charges brought against the persons in question. The authors will not be held responsible in the event any charges be brought against any individuals misusing the information in this project to break the law or regulations.
