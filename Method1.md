@@ -16,10 +16,10 @@ Note THAT you MUST NOT forget to restore the communication in 10-45 minutes, you
 
 ## Steps:
 
-On the first night, you should not cut off the switch, you should let the power off as usual in order to make sure the connection is good.Please also take note of the time when power off, so you can cut the connection off before the broadcast is sent tomorrow.
+On the first night, you SHOULD NOT cut off the switch. In order to make sure the connection is good, you should let the power off as usual. Please also take note of the time when power off, so you can cut the connection off before the broadcast is sent tomorrow.
 
 On the second night before the power off time, you should cut off the connection and wait until the other dorm's power was out, then you MUST turn the switch back on to let electricity meter continue sending the heartbeat. 
 
 Remember, if you missed the power off signal and your dorm has been switching off, there is NO WAY to turn the dorm back on, until tomorrow 6:00 am when the power on instructions is sent to every dorm's meter.
 
-Note that if you still forgot to turn the switch back on until 6:00 am when you still got blackout, you will HAVE TO wait until TOMORROW. You must avoid this, since if meter lost connection for a long time, the maintanence team will put your dorm into repair checklist and may get you in trouble.
+Note that if you still forgot to turn the switch back on until 6:00 am when you still got blackout, you will HAVE TO wait until TOMORROW. You must avoid this since if your dorm's meter lost connection for a long time, the maintanence team will put your dorm into repair checklist and may get you in trouble.
