@@ -31,4 +31,4 @@ I will introduce two different methods for preventing power off below.
 Almost every electricity meter on Chinese market has to support DL/T 645-2007 protocol to connect with each other. They use the RS485 standard to communicate.
 Method 1 uses a simple method to prevent electric meter receiving shutdown signal, while Method 2 dives into the DL/T 645-2007 protocol and trick the meter back online.
 
-Method 1 Here:[Method 1](Method1.md)
+Method 1 Here:[Method 1](/Methods/Method1.md)
