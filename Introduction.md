@@ -25,7 +25,7 @@
 * Screw Driver
 * Laptop
  
-**Method**
+## Method
 I will introduce two different methods for preventing power off below. 
 
 Almost every electricity meter on Chinese market has to support DL/T 645-2007 protocol to connect with each other. They use the RS485 standard to communicate.
