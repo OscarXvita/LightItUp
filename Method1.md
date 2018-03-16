@@ -1,4 +1,4 @@
-##Method 1 
+## Method 1 
 
 Method 1 is very simple and easy, but you need to be careful with timing. Just cut off the communication before the shutdown broadcast, and restore communication when the shutdown broadcast passed. 
 
@@ -6,7 +6,7 @@ Note THAT you MUST NOT forget to restore the communication in 10-45 minutes, you
 
 <span style="color:red">It is naive for one to use this method(ie. cut off the signal) to avoid electricity bills update, since the management center will receive alarms if meter's heartbeats has not been seen for some time. If meter lost connection for a long time, say 12 hours), the maintanence team will put your dorm into repair checklist and may get you in trouble. <b>NEVER THINK OF STEALING and PAY YOUR BILL!!!</b></span>
 
-##Setup:
+## Setup:
 
 1. Open the power cabinet, find the meter and unscrew its case.
 2. Find 2 signal cables. These two cables are usually soft, different with the power cable below and not in connection with the switches.
@@ -14,7 +14,7 @@ Note THAT you MUST NOT forget to restore the communication in 10-45 minutes, you
 4. Open the switch normally.
 5. Clean up and close the cabinet.
 
-##Steps:
+## Steps:
 
 On the first night, you should not cut off the switch, you should let the power off as usual in order to make sure the connection is good.Please also take note of the time when power off, so you can cut the connection off before the broadcast is sent tomorrow.
 
