@@ -35,4 +35,5 @@ Almost every electricity meter on Chinese market has to support DL/T 645-2007 pr
 Method 1 uses a simple method to prevent electric meter receiving shutdown signal, while Method 2 dives into the DL/T 645-2007 protocol and trick the meter back online.
 
 Method 1 Here:[Method 1](/Methods/Method1.md)
+
 Method 2 Here:[Method 2](/Methods/Method2.md)
