@@ -4,6 +4,9 @@
 
 ## 1. Identify your electricity meter model and power off patterns
 * You have to make sure that your dorm's electricity is controlled remotely.
+A sample of Exploitable Model, like this:
+![Photo]("https://preview.ibb.co/gHnh47/img.png")
+
 
 **How to check**
 
