@@ -9,7 +9,7 @@ A sample of Exploitable Model, like this:
 
 
 **How to check**
-
+* You can access your electricity meter easily (e.g. in your dorm, not the outside).
 * Your dorm is powered off and powered on at a fixed time(i.e 23:00, 6:00).
 * Your dorm is powered off when your electricity credit is insufficient.
 * You can charge you electricity bill using a machine, and the power will be automatically turned on.
