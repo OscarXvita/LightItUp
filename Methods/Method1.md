@@ -10,6 +10,9 @@ Note THAT you MUST NOT forget to restore the communication in 10-45 minutes, you
 
 1. Open the power cabinet, find the meter and unscrew its case.
 2. Find 2 signal cables. These two cables are usually soft, different with the power cable below and not in connection with the switches.
+
+![Photo](https://preview.ibb.co/gHnh47/img.png)
+
 3. Add a switch. Connect the original cables to one side of the switch and use two cables you prepared to connect with the electric meter.
 4. Open the switch normally.
 5. Clean up and close the cabinet.
