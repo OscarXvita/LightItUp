@@ -24,6 +24,7 @@ Note THAT you MUST NOT forget to restore the communication in 10-45 minutes, you
 2. Find 2 signal cables. These two cables are usually soft, different with the power cable below and not in connection with the switches.
 ![Photo](https://preview.ibb.co/gHnh47/img.png)
 3. Add a switch. Connect the original cables to one side of the switch and use two cables you prepared to connect with the electric meter.
+![Photo](https://image.ibb.co/iioN47/Untitled_Diagram.png)
 4. Open the switch normally.
 5. Attach another two cable on the electricity meter side of the switch, this makes it easy for us to communicate only with our meter. 
 6. Connect RS485 USB adapter to our newly attached cables.
